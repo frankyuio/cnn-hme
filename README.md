@@ -6,4 +6,4 @@ The approach was tested on two different multi-class image datasets:
 - Fashion MNIST
 - KIMIA Path960
 
-The included paper details the approach and experimental results. Jupyter notebooks used for the experiments are also included.
+The included paper details the approach and experimental results. Jupyter notebooks used for the experiments are also included. For convenience, here are links to both notebooks on Google Colab: [Fashion MNIST](https://colab.research.google.com/github/QFrankY/cnn-hme/blob/master/fashion_mnist.ipynb), [KIMIA Path960](https://colab.research.google.com/github/QFrankY/cnn-hme/blob/master/histopathology.ipynb)
